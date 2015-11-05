@@ -78,7 +78,9 @@ class ViewController: UIViewController, UITextFieldDelegate, UIImagePickerContro
         
 //        backgroundImageView.image = setImageForView(picture, text: "hello World!")
 //
-        backgroundImageView.image = picture
+        let rainbow = UIImage(named: "Background")
+        
+        backgroundImageView.image = rainbow
         
         let mask = CATextLayer()
         mask.backgroundColor = UIColor(white: 1, alpha: 0).CGColor

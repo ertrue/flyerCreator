@@ -76,7 +76,7 @@
                                     <action selector="generateImageView:" destination="BYZ-38-t0r" eventType="touchUpInside" id="gzR-05-faL"/>
                                 </connections>
                             </button>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Background" translatesAutoresizingMaskIntoConstraints="NO" id="rVP-H8-IZa">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="rVP-H8-IZa">
                                 <rect key="frame" x="20" y="302" width="560" height="290"/>
                                 <animations/>
                                 <gestureRecognizers/>
@@ -113,7 +113,4 @@
             <point key="canvasLocation" x="292" y="359"/>
         </scene>
     </scenes>
-    <resources>
-        <image name="Background" width="2592" height="1728"/>
-    </resources>
 </document>
