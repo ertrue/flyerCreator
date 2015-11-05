@@ -94,6 +94,8 @@ class ViewController: UIViewController, UITextFieldDelegate, UIImagePickerContro
         
         self.view.addSubview(backgroundImageView)
         
+        // hello world!
+        
 //        backgroundImageView.drawRect(backgroundImageView.frame)
 
         
